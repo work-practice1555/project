@@ -1,0 +1,1 @@
+web: gunicorn practice-work.wsgi
