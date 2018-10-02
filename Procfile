@@ -1,1 +1,1 @@
-web: gunicorn practice-work.wsgi
+web: gunicorn project.wsgi
